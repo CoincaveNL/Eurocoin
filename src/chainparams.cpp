@@ -20,7 +20,7 @@ using namespace boost::assign;
 
 unsigned int pnSeed[] =
 {
-    0x80C7F124, 0xBCE299E1,
+    0x8AC5964A, 0xBCA63A6C, 0x8AC94158, 0xBCF22CB4, 0x9E457EC1, 0xB8A481CA, 0x9E45F53A, 0x94FB0812, 0x5E8210E5, 0x5FDA8510,
 };
 
 class CMainParams : public CChainParams {
@@ -66,7 +66,16 @@ public:
         assert(hashGenesisBlock == uint256("0x000000004850c811aa9c0fb3fd1d6812daad395a44656b06b8d78d6e1d365343"));
         assert(genesis.hashMerkleRoot == uint256("0xbf16a4e22704ac3d6325e2614f82dc07a74bbfc0c58b2bc77fec78931b7bf2fe"));
 
-        vSeeds.push_back(CDNSSeedData("viapool.tk", "seed.viapool.tk"));
+        vSeeds.push_back(CDNSSeedData("188.166.58.108", "188.166.58.108"));
+        vSeeds.push_back(CDNSSeedData("138.197.150.74", "138.197.150.74"));
+        vSeeds.push_back(CDNSSeedData("138.201.65.88", "138.201.65.88"));
+        vSeeds.push_back(CDNSSeedData("188.242.44.180", "188.242.44.180"));
+        vSeeds.push_back(CDNSSeedData("158.69.126.193", "158.69.126.193"));
+        vSeeds.push_back(CDNSSeedData("184.164.129.202", "184.164.129.202"));
+        vSeeds.push_back(CDNSSeedData("158.69.245.58", "158.69.245.58"));
+        vSeeds.push_back(CDNSSeedData("148.251.8.18", "148.251.8.18"));
+        vSeeds.push_back(CDNSSeedData("94.130.16.229", "94.130.16.229"));
+        vSeeds.push_back(CDNSSeedData("95.218.133.16", "95.218.133.16"));
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(33);
         base58Prefixes[SCRIPT_ADDRESS] = list_of(68);
@@ -129,7 +138,8 @@ public:
 
         vFixedSeeds.clear();
         vSeeds.clear();
-        vSeeds.push_back(CDNSSeedData("viapool.tk", "seed.viapool.tk"));
+        
+        vSeeds.push_back(CDNSSeedData("138.197.150.74", "138.197.150.74"));
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(33);
         base58Prefixes[SCRIPT_ADDRESS] = list_of(68);
