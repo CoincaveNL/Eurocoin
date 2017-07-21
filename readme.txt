@@ -1,6 +1,6 @@
 Eurocoin 0.9.3 BETA
 
-Copyright (c) 2009-2015 Eurocoin Core Developers
+Copyright (c) 2009-2017 Eurocoin Core Developers
 
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -27,5 +27,5 @@ depending on the speed of your computer and network connection, the synchronizat
 process can take anywhere from a few hours to a day or more.
 
 See the Eurocoin at:
-  http://eurocoin.co
+  http://eurocoin-euc.com/
 for more help and information.
