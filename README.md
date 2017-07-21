@@ -1,7 +1,7 @@
 Eurocoin Core integration/staging tree
 =====================================
 
-http://eurocoin.co
+http://eurocoin-euc.com/
 
 Copyright (c) 2009-2015 Eurocoin Core Developers
 
@@ -15,7 +15,7 @@ out collectively by the network. Eurocoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Eurocoin Core software, see http://eurocoin.co
+the Eurocoin Core software, see http://eurocoin-euc.com/
 
 License
 -------
