@@ -3,7 +3,7 @@ Eurocoin Core integration/staging tree
 
 http://eurocoin-euc.com/
 
-Copyright (c) 2009-2015 Eurocoin Core Developers
+Copyright (c) 2009-2017 Eurocoin Core Developers
 
 What is Eurocoin?
 ----------------
